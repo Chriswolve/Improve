@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Improve</string>
+
+
+    <string name="title_activity_add_reminder">Nueva tarea</string>
+    <string name="title_activity_edit_reminder">Editar tarea</string>
+    <string name="title_activity_licenses">Salir</string>
+
+    <string name="add_reminder">Tarea</string>
+    <string name="details">Detalle</string>
+    <string name="date">Fecha</string>
+    <string name="time">Hora</string>
+    <string name="repeat">Repetir</string>
+    <string name="repeat_off">Off</string>
+    <string name="repeat_no">Repetition Interval </string>
+    <string name="repeat_type">Type of Repetitions</string>
+
+    <string name="action_discard_reminder">Discard Reminder</string>
+    <string name="action_save_reminder">Save Reminder</string>
+
+    <string name="no_reminders">Click on the plus button below to begin creating your reminders!</string>
+
+
+
+</resources>
